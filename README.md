@@ -1,5 +1,5 @@
 # Early-Prediction-of-Diabetes
-# This ia a group project of Statistical Data Mining.
+#This is a group project of 1st semester- Statistical Data Mining.
 #This project leverages the power of Machine Learning Algorithms, to classify data, collected from 
 patients, based on the varied symptoms they developed, and tries to predict whether an individual has 
 the potential to develop the disorder. The data set deals with 520 patient records, with a total of 16 
